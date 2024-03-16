@@ -50,8 +50,8 @@ const Contact = () => {
 		e.preventDefault();
 
 		emailjs
-			.sendForm("service_ypsf6zw", "template_qs7lemo", form.current, {
-				publicKey: "nvnngHziWR3JCbiEL",
+			.sendForm("service_kclv9gr", "template_0c01iyh", form.current, {
+				publicKey: "iuFTAeQCZmtWtoB5u",
 			})
 			.then(
 				() => {
