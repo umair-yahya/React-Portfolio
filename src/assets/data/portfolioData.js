@@ -8,6 +8,7 @@ import iphone from "../images/iphone.png";
 import redragon from "../images/redragon.png";
 import daraz from "../images/daraz.png";
 import pokemon from "../images/pokemon.png";
+import portfolioImg03 from "../images/portfolioImg03";
 
 const portfolios = [
 	{
