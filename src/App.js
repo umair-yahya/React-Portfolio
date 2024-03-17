@@ -7,15 +7,21 @@ import Hero from "./components/UI/Hero";
 import Services from "./components/UI/Services";
 import Portfolio from "./components/UI/Portfolio";
 import Contact from "./components/UI/Contact";
+import { Helmet } from "react-helmet";
 
 function App() {
 	useEffect(() => {
 		Aos.init();
-		document.title = "My Portfolio";
 	}, []);
 
 	return (
 		<>
+			<Helmet>
+				<meta charSet="utf-8" />
+				<title>Umair Portfolio</title>
+				<link rel="canonical" href="http://mysite.com/example" />
+				<meta name="description" content="Icon And Title" />
+			</Helmet>
 			<Header />
 			<main>
 				<Hero />
