@@ -1,10 +1,3 @@
-import portfolioImg01 from "../images/portfolio-01.jpg";
-import portfolioImg02 from "../images/portfolio-02.jpg";
-import portfolioImg03 from "../images/portfolio-03.jpg";
-import portfolioImg04 from "../images/portfolio-04.jpg";
-import portfolioImg05 from "../images/portfolio-05.jpg";
-import portfolioImg06 from "../images/portfolio-06.jpg";
-import portfolioImg07 from "../images/portfolio-07.jpg";
 import todoapp from "../images/todoapp.png";
 import quizapp from "../images/quizapp.png";
 import eligarments from "../images/eligarments.png";
@@ -73,7 +66,7 @@ const portfolios = [
 		title: "IPhone Landing Page",
 		technologies: ["HTML5", "CSS3"],
 		siteUrl:
-			"https://portfolio- umair.web.app/Assignments/Assignment08/index.html",
+			"https://portfolio-umair.web.app/Assignments/Assignment08/index.html",
 	},
 	{
 		id: "08",
@@ -98,7 +91,7 @@ const portfolios = [
 		title: "Pokemon Website Clone",
 		technologies: ["HTML5", "CSS3"],
 		siteUrl:
-			"https://portfolio- umair.web.app/Assignments/Assignment09/index.html",
+			"https://portfolio-umair.web.app/Assignments/Assignment09/index.html",
 	},
 	{
 		id: "11",
