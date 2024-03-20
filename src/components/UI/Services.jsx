@@ -8,7 +8,12 @@ const Services = () => {
 	return (
 		<section id="services">
 			<div className="container lg:pt-5">
-				<div className="text-center">
+				<div
+					className="text-center"
+					data-aos="fade-down-right"
+					data-aos-delay="50"
+					data-aos-duration="1300"
+				>
 					<h2 className="text-headingColor font-[800] text-[2.4rem] mb-5">
 						What Do I Help
 					</h2>

@@ -88,7 +88,12 @@ const Contact = () => {
 
 	return (
 		<section id="contact" className="pb-16">
-			<div className="container">
+			<div
+				className="container"
+				data-aos="fade-zoom-in"
+				data-aos-delay="50"
+				data-aos-duration="1200"
+			>
 				<h2 className="text-headingColor font-[700] text-[2.5rem] mb-8">
 					Get In Touch
 				</h2>
