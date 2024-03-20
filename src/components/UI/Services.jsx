@@ -79,7 +79,7 @@ const Services = () => {
 									<div className="flex justify-end w-full mx-auto items-center">
 										<div className="w-full sm:w-1/2 sm:pl-8">
 											<div
-												data-aos="fade-left"
+												data-aos="fade-right"
 												data-aos-delay="50"
 												data-aos-duration="1300"
 												className="bg-white p-4 rounded shadow group hover:bg-primaryColor
