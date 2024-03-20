@@ -6,12 +6,7 @@ const Footer = () => {
 	const year = new Date().getFullYear();
 
 	return (
-		<footer
-			className="bg-[#12141e] pt-12"
-			data-aos="fade-zoom-in"
-			data-aos-delay="50"
-			data-aos-duration="1000"
-		>
+		<footer className="bg-[#12141e] pt-12">
 			<div className="container">
 				<div className="sm:flex items-center justify-between md:gap-8">
 					<div className="w-full sm:w-1/2">
